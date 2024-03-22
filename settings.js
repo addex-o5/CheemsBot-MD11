@@ -20,7 +20,7 @@ global.location = "Nigeria, Lagos, Ikeja" //ur location
 
 //new
 global.botname = 'addex🥶❄️ Bot MD V11' //ur bot name
-global.ownernumber = '2349023440982' //ur owner number
+global.ownernumber = '2349152690644' //ur owner number
 global.ownername =  'addex🥶❄️' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
